@@ -1,7 +1,7 @@
 import sqlite3 
 import telebot
 import datetime
-API_TOKEN = 'ф'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
